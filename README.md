@@ -9,8 +9,7 @@ This is a full-stack Todo Task Management Web App built as part of a hackathon r
 
 ## Demo Video
 
-🎥 Loom video: [Click here to watch the demo](#)  
-_Replace the `#` with your Loom video URL._
+🎥 Loom video: [Click here to watch the demo](https://www.loom.com/share/6a880f21763b4b3090faef1872b1a00c?sid=aafa14e4-00f3-4e67-9110-ae1f3d86dd6c)
 
 ## Architecture Diagram
 
